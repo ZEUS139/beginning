@@ -1,0 +1,32 @@
+body {
+    margin: 0%;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 20px;
+
+    
+}
+.hero {
+    background-color: rgb(194, 95, 95);
+    background-image: url("image/606296.jpg");
+    background-repeat: no-repeat;
+    background-blend-mode: multiply;
+    size: 30px;
+   
+color: aliceblue;
+padding-top: 200px;
+padding-bottom: 200px;
+padding-left: 100px;
+padding-right: 200px;
+}
+.container {
+color: #ffffff;
+background-color: rgb(8, 57, 19);
+background-image: url("image/jk.jpg");
+background-repeat: repeat;
+background-blend-mode: multiply;
+
+padding-top: 200px;
+padding-bottom: 200px;
+padding-left: 100px;
+padding-right: 200px;
+}
